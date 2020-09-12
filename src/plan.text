@@ -1,0 +1,26 @@
+APP__COMPONENTS:
+{
+  /*We need React-ROUTER */
+}
+{
+  /* localhost.com*/
+}
+{
+  /*localhost.com/checkout*/
+}
+{
+  /*localhost.com/login*/
+}
+
+
+
+HEADER__COMPONENTS:
+{/* logo on the left -> img*/}
+
+{/*Search box*/}
+
+ {/*3 links 1.signin 2.Return&Order 3.yourPrime*/}
+
+ {
+  /* Basket icon with Number */
+}
